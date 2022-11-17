@@ -80,10 +80,6 @@
     font-weight: 300;
 }
 
-.banners{
-    
-}
-
 .banner1{
     display: flex;
     margin: auto;
@@ -109,7 +105,7 @@
 .banner1-text{
     color: black;
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 550;
 }
 
 .banner1-button{
@@ -121,4 +117,30 @@
     padding: 5px 30px;
     border-width: 2px;
     font-size: 12px;
+}
+
+#banner2{
+    background-color: #0A1E2B;
+}
+
+#banner2-info{
+    margin: 30px auto;
+}
+
+#banner2-logo{
+    width: 250px;
+}
+
+#banner2-text{
+    color: white;
+}
+
+#banner2-button{
+    border-color: white;
+    color: white;
+    background: none;
+}
+
+#banner2-img{
+    margin-right: 30px;
 }
