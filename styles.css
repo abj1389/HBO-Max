@@ -1,0 +1,16 @@
+.intro{
+    background-image: url("./img/fondo.png");
+}
+
+.header{
+    background: rgb(235, 17, 17);
+}
+
+.header-img{
+    height: 100;
+    background: rgb(211, 32, 32);
+}
+
+/* .header-button{
+
+}*/
