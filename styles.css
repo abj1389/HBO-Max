@@ -144,3 +144,33 @@
 #banner2-img{
     margin-right: 30px;
 }
+
+.faqs{
+    background-color: #030328;
+    padding: 20px;
+    font-size: 14px;
+    border-bottom: 6px solid rgb(158, 134, 255);
+}
+
+.details{
+    max-width: 600px;
+    padding-left: 10px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    margin: auto;
+    color: rgb(158, 134, 255);
+    border-bottom: 1px solid rgb(158, 134, 255);
+}
+
+.faqs-title{
+    text-align: center;
+}
+
+.faqs-info{
+    color: white;
+}
+
+.help-link{
+    text-decoration: none;
+    color: rgb(158, 134, 255);
+}
