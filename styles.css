@@ -4,7 +4,6 @@
 }
 
 .intro{
-    margin: auto;
     text-align: center;
     background-image: url("./img/fondo.png");
     background-size: cover;
@@ -59,4 +58,24 @@
     color: white;
     font-weight: bold;
     letter-spacing: 2px;
+}
+
+.value-proposal{
+    background-color: #030328;
+    margin-top: 0px;
+    border: 0px;
+    text-align: center;
+    padding: 10px;
+}
+
+.vp-title{
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.vp-text{
+    max-width: 600px;
+    margin: 20px auto;
+    font-size: 14px;
+    font-weight: 300;
 }
