@@ -79,3 +79,46 @@
     font-size: 14px;
     font-weight: 300;
 }
+
+.banners{
+    
+}
+
+.banner1{
+    display: flex;
+    margin: auto;
+}
+
+.banner1-img{
+    width: 480px;
+}
+
+.banner1-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    text-align: center;
+    margin: auto;
+}
+
+.banner1-logo{
+    width: 300px;
+    margin: auto;
+}
+
+.banner1-text{
+    color: black;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.banner1-button{
+    margin: auto;
+    background-color: white;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 5px 30px;
+    border-width: 2px;
+    font-size: 12px;
+}
